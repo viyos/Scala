@@ -1,0 +1,1 @@
+Estamos executando um script que manipula 4 arquivos!
